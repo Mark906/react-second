@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial';
+}
+
+h1 {
+    text-align: center;
+}
+
+.post {
+    margin: 20px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.user-post {
+    text-align: left;
+    padding: 15px;
+}
+
+.content-of-post {
+    padding: 15px;
+    font-size: 17px;
+}
+
+.like-button {
+    margin: 10px;
+    width: 75px;
+}
